@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cGNsFbQj5DfaOxPCUULfxmP6cl60mAhxBYCem2Zkl4XT2SWzFjh5JXnLV5aPm/0g7efzn7fhZZZtD1bUZNUKXg==",
+  "dgSpecHash": "bKFifBeXC8cSj/kDm0a4cnqU8Z6HALXGg2g52WhWGZxdMMcfQtURS9CAa5vNc8SwnEEFtXhQ84Ula3+nSvV7/A==",
   "success": true,
-  "projectFilePath": "C:\\Demo\\skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\Demo\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saule\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\saule\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",

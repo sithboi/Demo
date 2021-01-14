@@ -1617,11 +1617,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Demo\\skinet\\API\\API.csproj",
+      "projectUniqueName": "C:\\Demo\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Demo\\skinet\\API\\API.csproj",
+      "projectPath": "C:\\Demo\\API\\API.csproj",
       "packagesPath": "C:\\Users\\saule\\.nuget\\packages\\",
-      "outputPath": "C:\\Demo\\skinet\\API\\obj\\",
+      "outputPath": "C:\\Demo\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saule\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1638,8 +1638,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Demo\\skinet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Demo\\skinet\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Demo\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Demo\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
